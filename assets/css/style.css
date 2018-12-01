@@ -88,6 +88,7 @@ li a.active {
 .title  {
 	border-bottom: #666; 
 	border-bottom-color: 5px;
+	border-bottom-width: 5px;
 	outline-color:#4aaaa5;
 }
 .jumbotron {
