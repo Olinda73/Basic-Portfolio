@@ -32,7 +32,6 @@ li a {
 	
 }
 
-}
 
 .left {
 	float: left;
@@ -87,7 +86,7 @@ li a.active {
 .title  {
 	border-bottom: #666; 
 	border-bottom-color: 5px;
-	font-color:#4aaaa5;
+	outline-color:#4aaaa5;
 }
 .jumbotron {
     background-color: turquoise
