@@ -54,7 +54,7 @@ li b {
 	border-color: #666
 	text-decoration: none;
 	font-family: Arial, Helvetica, sans-serif;
-	font-size:30px;
+	font-size:40px;
 	background-color: #4aaaa5
 }
 
@@ -133,7 +133,7 @@ p, h1, h4 {
 
 
 .aboutMe {
-	background-color: #f3f3f3;
+	background-image: url("../images/egg_shell/egg_shell_@2X.png")
     width: 950px; height: 600px;
 	border: 2px solid lightgrey;
     padding: 5px;
