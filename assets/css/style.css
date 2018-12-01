@@ -36,7 +36,7 @@ li a {
 .left {
 	float: left;
 	height: 110px;
-	width: 25%;
+	width: 20%;
 	margin-left: 300px;
 	background:#4aaaa5;
 	border:2px;
@@ -133,7 +133,7 @@ p, h1, h4 {
 
 .aboutMe {
 	background-color: #f3f3f3;
-    width: 900px; height: 600px;
+    width: 950px; height: 600px;
 	border: 2px solid lightgrey;
     padding: 5px;
 	margin-bottom: 300px;
